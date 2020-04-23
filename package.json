@@ -1,0 +1,25 @@
+{
+  "name": "mobile-survelliance",
+  "version": "1.0.0",
+  "description": "Created automatically using create-github",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishsubedi/mobile-survelliance.git"
+  },
+  "author": "Ashish Subedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishsubedi/mobile-survelliance/issues"
+  },
+  "homepage": "https://github.com/ashishsubedi/mobile-survelliance#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
